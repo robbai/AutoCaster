@@ -1,0 +1,6 @@
+black
+flake8
+gpt_2_simple
+pre-commit
+tensorflow-gpu==1.15
+tqdm

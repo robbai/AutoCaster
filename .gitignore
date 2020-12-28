@@ -1,5 +1,9 @@
 # AutoCaster
 .vscode/
+src/checkpoint/
+src/samples/
+src/models/
+src/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

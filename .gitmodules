@@ -1,0 +1,3 @@
+[submodule "src/ytsubtitles"]
+	path = src/ytsubtitles
+	url = https://github.com/vvigilante/youtube-subtitles-downloader.git
